@@ -1,0 +1,15 @@
+traceroute to purdue.edu (128.210.7.200), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  3.577 ms  6.923 ms  7.035 ms
+ 2  * * *
+ 3  cpe-174-111-105-229.triad.res.rr.com (174.111.105.229)  51.546 ms  52.059 ms  52.076 ms
+ 4  cpe-024-025-063-142.ec.res.rr.com (24.25.63.142)  34.043 ms  34.069 ms  34.180 ms
+ 5  be31.drhmncev01r.southeast.rr.com (24.93.64.184)  43.348 ms  44.980 ms 24.93.67.200 (24.93.67.200)  47.039 ms
+ 6  bu-ether15.asbnva1611w-bcr00.tbone.rr.com (66.109.6.80)  53.732 ms  27.794 ms  39.148 ms
+ 7  0.ae4.pr0.dca10.tbone.rr.com (107.14.19.133)  37.384 ms 66.109.1.47 (66.109.1.47)  34.301 ms 0.ae2.pr0.dca10.tbone.rr.com (66.109.6.169)  34.974 ms
+ 8  107.14.16.82 (107.14.16.82)  37.323 ms  37.294 ms  37.348 ms
+ 9  ae-1.0.rtr.eqch.net.internet2.edu (64.57.20.219)  59.413 ms  65.563 ms  63.886 ms
+10  ae-1.211.rtr.ictc.indiana.gigapop.net (64.57.21.14)  71.907 ms  76.520 ms  63.361 ms
+11  * * *
+12  * * *
+13  * * *
+14  128.210.7.200 (128.210.7.200)  61.510 ms  59.040 ms  62.947 ms

@@ -1,0 +1,18 @@
+traceroute to berkeley.edu (128.32.203.137), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  226.160 ms  226.069 ms  226.052 ms
+ 2  * * *
+ 3  cpe-174-111-105-229.triad.res.rr.com (174.111.105.229)  226.231 ms  226.188 ms  226.178 ms
+ 4  cpe-024-025-063-142.ec.res.rr.com (24.25.63.142)  226.149 ms  226.072 ms  226.068 ms
+ 5  be31.drhmncev01r.southeast.rr.com (24.93.64.184)  226.057 ms  225.992 ms  225.966 ms
+ 6  bu-ether15.asbnva1611w-bcr00.tbone.rr.com (66.109.6.80)  225.940 ms  30.697 ms  38.277 ms
+ 7  0.ae0.pr0.dca10.tbone.rr.com (66.109.6.183)  34.268 ms 0.ae4.pr0.dca10.tbone.rr.com (107.14.19.133)  34.005 ms 0.ae0.pr0.dca10.tbone.rr.com (66.109.6.183)  33.830 ms
+ 8  107.14.16.82 (107.14.16.82)  34.553 ms  34.480 ms  46.870 ms
+ 9  xe-7-0-0.0.rtsw.losa.net.internet2.edu (64.57.20.247)  113.566 ms  113.576 ms  113.551 ms
+10  64.57.20.83 (64.57.20.83)  113.534 ms  113.518 ms  214.492 ms
+11  dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10)  225.975 ms  225.860 ms  225.813 ms
+12  dc-svl-agg4--lax-agg6-100ge.cenic.net (137.164.11.1)  224.956 ms  224.683 ms  222.150 ms
+13  dc-oak-agg4--svl-agg4-100ge.cenic.net (137.164.46.144)  212.704 ms  145.935 ms  223.804 ms
+14  ucb--oak-agg4-10g.cenic.net (137.164.50.31)  240.557 ms  229.207 ms  229.355 ms
+15  t2-3.inr-202-reccev.berkeley.edu (128.32.0.39)  117.745 ms  104.481 ms t2-3.inr-201-sut.berkeley.edu (128.32.0.37)  106.241 ms
+16  e3-47.inr-310-ewdc.berkeley.edu (128.32.0.99)  112.229 ms et3-48.inr-311-ewdc.berkeley.edu (128.32.0.101)  115.397 ms  115.374 ms
+17  calweb-farm-prod.ist.berkeley.edu (128.32.203.137)  115.361 ms  115.308 ms  141.455 ms

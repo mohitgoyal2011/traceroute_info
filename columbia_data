@@ -1,0 +1,18 @@
+traceroute to columbia.edu (128.59.105.24), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  3.756 ms  5.969 ms  6.592 ms
+ 2  * * *
+ 3  * * *
+ 4  cpe-174-111-105-233.triad.res.rr.com (174.111.105.233)  51.294 ms  51.293 ms  51.271 ms
+ 5  cpe-024-025-063-144.ec.res.rr.com (24.25.63.144)  32.454 ms  33.142 ms  38.778 ms
+ 6  24.93.67.202 (24.93.67.202)  43.114 ms  27.334 ms  32.422 ms
+ 7  bu-ether14.atlngamq46w-bcr00.tbone.rr.com (66.109.6.82)  35.534 ms  42.071 ms  53.770 ms
+ 8  0.ae2.pr0.atl20.tbone.rr.com (107.14.19.11)  43.411 ms  43.261 ms  88.954 ms
+ 9  be7843.ccr41.atl04.atlas.cogentco.com (154.54.12.109)  42.214 ms  42.182 ms  40.212 ms
+10  be2848.ccr42.atl01.atlas.cogentco.com (154.54.6.117)  34.727 ms  31.420 ms  35.465 ms
+11  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  46.748 ms  45.624 ms  43.588 ms
+12  be2807.ccr42.jfk02.atlas.cogentco.com (154.54.40.109)  49.214 ms  42.940 ms  35.569 ms
+13  be2897.rcr24.jfk01.atlas.cogentco.com (154.54.84.214)  47.387 ms  50.287 ms  39.971 ms
+14  38.122.8.210 (38.122.8.210)  48.317 ms  49.256 ms  48.241 ms
+15  cc-core-1-x-nyser32-gw-1.net.columbia.edu (128.59.255.5)  42.290 ms  49.716 ms  49.780 ms
+16  cc-conc-1-x-cc-core-1.net.columbia.edu (128.59.255.210)  55.066 ms  48.336 ms  45.581 ms
+17  childpolicy.org (128.59.105.24)  44.528 ms  39.278 ms  43.521 ms

@@ -1,0 +1,18 @@
+traceroute to columbia.edu (128.59.105.24), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  3.757 ms  6.668 ms  7.103 ms
+ 2  * * *
+ 3  * * *
+ 4  cpe-174-111-105-233.triad.res.rr.com (174.111.105.233)  54.921 ms  57.630 ms  57.780 ms
+ 5  cpe-024-025-063-144.ec.res.rr.com (24.25.63.144)  40.586 ms  41.342 ms  40.457 ms
+ 6  24.93.67.202 (24.93.67.202)  50.685 ms be31.chrcnctr01r.southeast.rr.com (24.93.64.186)  23.155 ms  30.467 ms
+ 7  bu-ether14.atlngamq46w-bcr00.tbone.rr.com (66.109.6.82)  37.607 ms  35.681 ms  42.985 ms
+ 8  0.ae2.pr0.atl20.tbone.rr.com (107.14.19.11)  39.584 ms 0.ae1.pr0.atl20.tbone.rr.com (66.109.6.177)  36.803 ms 0.ae0.pr0.atl20.tbone.rr.com (66.109.6.171)  37.814 ms
+ 9  be7843.ccr41.atl04.atlas.cogentco.com (154.54.12.109)  34.941 ms  38.541 ms  39.245 ms
+10  be2848.ccr42.atl01.atlas.cogentco.com (154.54.6.117)  43.677 ms  45.046 ms  43.246 ms
+11  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  42.979 ms  37.749 ms  42.894 ms
+12  be2807.ccr42.jfk02.atlas.cogentco.com (154.54.40.109)  42.194 ms  43.285 ms  44.557 ms
+13  be2897.rcr24.jfk01.atlas.cogentco.com (154.54.84.214)  40.038 ms  39.647 ms  47.198 ms
+14  38.122.8.210 (38.122.8.210)  42.230 ms  45.245 ms  48.241 ms
+15  cc-core-1-x-nyser32-gw-1.net.columbia.edu (128.59.255.5)  94.868 ms  91.381 ms  90.402 ms
+16  cc-conc-1-x-cc-core-1.net.columbia.edu (128.59.255.210)  43.534 ms  42.486 ms  37.642 ms
+17  www-ltm.cc.columbia.edu (128.59.105.24)  41.193 ms  41.622 ms  41.676 ms
