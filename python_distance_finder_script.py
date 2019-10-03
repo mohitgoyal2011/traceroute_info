@@ -58,7 +58,7 @@ if sys.argv[2] and sys.argv[2] == 'all':
 
 		ti.sleep(5)
 		if location == my_location:
-			city = '3G1, ATS Greens II, Sector 50, Noida, UP, 201307, India'
+			city = ''
 		else:
 			loc = geolocator.reverse(location)
 			city = loc.address	
